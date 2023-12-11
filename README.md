@@ -12,6 +12,12 @@
 
 Let's KIT tackles a common issue: young adults (18-35) struggle to keep meaningful relationships during major life changes. Busy lives lead to fewer friends. Social media shows only the best, making it hard to share real thoughts. Fast communication doesn't help. People want a safe space for genuine connections. Our research confirms this need, presenting a market opportunity for our startup to fill the gap and provide a platform for authentic relationships.
 
+<p float="left">
+  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/6969821f-24a3-4c98-9432-3c9420496bf1" width="30%" />
+  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/c4343bfd-36c8-4940-bbdd-3cb3751f4865" width="30%" />
+  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/4081c09e-056b-43a8-9d32-cfb5374c74a8" width="30%" />
+</p>
+
 ### 1.2 Solution
 
 Having a single platform to keep a friend or group of friends connected and constantly engaging with each other will help people maintain quality friendships that go beyond shallow interactions that happen on other social media platforms, such as Instagram or Snapchat.
@@ -32,13 +38,60 @@ Since we are building a software solution, the cost incurred to create this serv
 
 Let's KIT is fully premium, with a 14 day free trial. Therefore, we have two tiers of subscription. The premium subscription will give users key features like financial management, so a percentage of their subscription fees will be put into a "group savings" account which can be used to plan a smaller trip.
 
-## 2 Financial Model
+## 2. Financial Model
 
 We estimate that we will have a user base of around 50,000 during our initial scale year which will net us \$13k in net profit all being reinvested into our startup. We estimate that we will sell more units by 48.8 percent from 2023 to 2024. Some key assumptions are that our income tax rate is 40% and our SG&A (overhead selling, general, and admission expenses) rate is 20%. We also assume that 10% of people contacted through email/in-person get back to us, and 25% of those people take action and of those people that take action, 10% of them will buy our product. It costs us \$0.04 cents to get peoples’ attention on our product, \$0.0015 cents per contact, \$0.02 cents to respond back to a potential customer’s action, and \$0.27 cents for the cost associated with fulfilling a sale. How many people are telling each other about our product, the referral coefficient, is k = 0.2. The contact overlap is 0.25, the contact decay is 0.05, and the recurring coefficient is 0.55, so we will retain a majority of our initial customers the following year. We project that we will sell around 125 of our software packages to users during our initial scale year in 2023 netting us a profit of \$13k for our initial year.
 
-## 3 Patent Abstract
+|             | 2023  | 2024  | 2025   | 2026     | 2027     |
+|-------------|-------|-------|--------|----------|----------|
+| Sales       | 30,000| 44,715| 640,193| 1,044,656| 1,344,061|
+| COGS        | 84    | 125   | 1,787  | 2,916    | 3,752    |
+| R&D         |       |       |        |          |          |
+| Marketing   | 2,134 | 2,347 | 51,210 | 57,611   | 64,013   |
+| SG&A        | 6,000 | 8,943 | 168,039| 288,931  | 368,812  |
+| Other       | 0     | 0     | 0      | 0        | 0        |
+| Taxes       | 8,713 | 13,320| 167,663| 278,079  | 362,994  |
+| **Total:**  | **13,070**| **19,980**| **251,494**| **417,118**  | **544,490**  |
 
-The invention here disclosed, referred hereunder as Let's KIT, is a system and app for enhancing and facilitating interpersonal connection within a group of friends over a digital platform. Our system and method receives a variety of data inputs, such as user-generated questions, personal reflections, social media content, and user preferences. To process this data, we facilitate interactive exchanges in a chat interface, store and analyze personal reflections, integrate social media interactions, and apply user-customized settings.
-Our system creates an enhanced user experience that promotes meaningful personal connections and introspection. It generates personalized digital mementos through reflections and interactions. The system includes a compilation feature that aggregates user responses, culminating in the creation of bespoke digital mementos, encapsulating shared experiences and memories. This enhancement adds a deeper layer of personalization and nostalgia to the user experience.
-Let's KIT also features a novel savings account system tailored for group usage. This feature enables a collective savings mechanism within the platform, allowing members of a group to pool resources, set financial goals, and collaboratively work towards achieving them. This functionality further enhances the platform's utility, facilitating not only social connections but also collaborative financial endeavors among users that can be poured back into the meaningful connections.
-This system caters to different types of users including those seeking connections, institutions focused on community building, and even government or law enforcement agencies for community engagement. It can predict user preferences, anticipate communication needs, provide advice on relationship building, and offer customized reflective prompts. The novelty resides in the utilization of varied sources of information, artfully combined to improve personal engagement and provide instinctive, actionable insights via a user-friendly interface. The system has versatile implementation options, including a fully standalone mobile app, desktop software, server-based systems, cloud infrastructure solutions, corporate or institutional setups, or a combination of these options. It can be deployed in a centralized or distributed manner, providing flexibility and scalability to meet various user needs and operational environments.
+<p float="left">
+  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/ed884ba7-d83e-490f-b505-994536691b03" width="49%" />
+  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/1d022f7f-94a4-466a-8afc-7ba73af4217b" width="49%" />
+</p>
+
+## 3. Business Plan
+
+### 3.1 Base Subscription
+
+- $19.99/month per group ($199.99/year)
+- Digital personalized memento
+- Chance to win a small trip within US
+
+### 3.2 Premium Subscription
+
+- $29.99/month per group ($299.99/year)
+- Additional physical personalized memento
+- Chance to win a luxury trip abroad
+- High engagement rate will put 10% of subscription fee into savings
+
+## 4. Competitive Advantages
+
+| **Features**             | **Letterloop** | **BeReal** | **Let's KIT** |
+|----------------------|------------|--------|--------------|
+| free trial           | ✓          | ✓      | ✓            |
+| 1 platform           | ✗          | ✗      | ✓            |
+| financial management | ✗          | ✓      | ✓            |
+| physical memento     | ✗          | ✗      | ✓            |
+
+## 5. Money Required
+
+- Asking for **$100,000**
+
+- Usage
+
+  - Engineers
+  - Hiring a CEO
+  - Marketing/Merchandise
+  - Maintenance/updates
+  - App store fees
+  - Integration with third-party services
+  - Funding for prize trips
