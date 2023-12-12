@@ -2,21 +2,11 @@
 
 > Are you tired of losing touch with old friends due to the chaos and busyness of life? Let's KIT is our solution to effortlessly stay connected. Entering the workforce or moving to a different state shouldn't mean losing meaningful friendships. Our software sends engaging bi-weekly prompts, making it easy for friends to share meaningful updates and photos of what they're up to. Our app combats loneliness and bypasses the superficiality of social media apps like Facebook or Instagram by forcing people to engage beyond short texts or an occasional photo. Let's KIT fosters genuine connections in the simplest way possible.
 
-<p align="center">
-  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/1f0699fa-dc70-47df-a02f-4927dd8252ea" alt="team" width="100%">
-</p>
-
 ## 1. Introduction
 
 ### 1.1 Problem
 
 Let's KIT tackles a common issue: young adults (18-35) struggle to keep meaningful relationships during major life changes. Busy lives lead to fewer friends. Social media shows only the best, making it hard to share real thoughts. Fast communication doesn't help. People want a safe space for genuine connections. Our research confirms this need, presenting a market opportunity for our startup to fill the gap and provide a platform for authentic relationships.
-
-<p float="left">
-  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/6969821f-24a3-4c98-9432-3c9420496bf1" width="30%" />
-  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/c4343bfd-36c8-4940-bbdd-3cb3751f4865" width="30%" />
-  <img src="https://github.com/Lets-KIT/Demo/assets/121741400/4081c09e-056b-43a8-9d32-cfb5374c74a8" width="30%" />
-</p>
 
 ### 1.2 Solution
 
